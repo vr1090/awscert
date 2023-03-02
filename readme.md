@@ -4,6 +4,7 @@
 wrong answer:
 - 7: s3 storage class. IA .. infrequent access
 - 9 : event source for lambda
+- 16: AWS machine learning
 
 nodes:
 - general purpose SSD 10K IOPS, optimze IOPS 30K IOPS
@@ -16,3 +17,9 @@ nodes:
     - geo : based on location user
     - latency: simpen database latency per ip
 - aws cognito: kasih akses buat mobile apps and web
+- aws artifact: for compliance based
+- aws machine learning:
+    - transcribe : speech to text
+    - comprehend: text analysis using NLP. 
+    - sagemaker: deploy machine learning at any scale
+    - rekognition: analysis on video and images
