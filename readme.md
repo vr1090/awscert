@@ -24,3 +24,5 @@ notes:
     - sagemaker: deploy machine learning at any scale
     - rekognition: analysis on video and images
 - instance store are not persistent
+- aws inspector: automatic, security for compliance
+
