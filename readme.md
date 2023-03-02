@@ -5,6 +5,8 @@ wrong answer:
 - 7: s3 storage class. IA .. infrequent access
 - 9 : event source for lambda
 - 16: AWS machine learning
+- 23: VPC consist of ..
+- 24: VPC wizrd
 
 notes:
 - general purpose SSD 10K IOPS, optimze IOPS 30K IOPS
@@ -25,4 +27,9 @@ notes:
     - rekognition: analysis on video and images
 - instance store are not persistent
 - aws inspector: automatic, security for compliance
-
+- VPC wizard:
+    - one public subnet
+    - vpc public-private subnet
+    - vpc public-private subnet with VPN hardware
+    - vpc private with VPN hardware
+- storage gateway: hybrid between on prem and cloud
