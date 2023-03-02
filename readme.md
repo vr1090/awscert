@@ -6,7 +6,7 @@ wrong answer:
 - 9 : event source for lambda
 - 16: AWS machine learning
 
-nodes:
+notes:
 - general purpose SSD 10K IOPS, optimze IOPS 30K IOPS
 - alias record used for load balancer, s3, cloudfront, elastic beanstalk
 - IA ... infrequent access, ada IA one zone
@@ -23,3 +23,4 @@ nodes:
     - comprehend: text analysis using NLP. 
     - sagemaker: deploy machine learning at any scale
     - rekognition: analysis on video and images
+- instance store are not persistent
