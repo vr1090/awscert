@@ -14,7 +14,8 @@ wrong answer:
 - 43: access using federation IAM
 - 47: CRR -> cross region replication
 - 51: AWS migration hub, --> buat bantu migrasi
-- 59: AWS concierge ... ini billing and account expert.  
+- 59: AWS concierge ... ini billing and account expert. 
+- 64: flash RTMP 
 
 notes:
 - general purpose SSD 10K IOPS, optimze IOPS 30K IOPS
