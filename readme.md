@@ -20,6 +20,12 @@ wrong answer:
 score: 78%
 
 ## no 4, retake
+100%
+
+## AWS cloud practioner: sample exam 5
+wrong answer:
+2: basic engga punya email support, minimal itu developers
+7: direct connect .. local region, other region.
 
 
 notes:
@@ -52,4 +58,6 @@ notes:
     - traffice flow
     - domain registration
     - health check and failover
+- EBS encryption: non root at boot time sama root kalau dari AMI
+
 
