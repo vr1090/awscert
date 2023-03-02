@@ -15,7 +15,12 @@ wrong answer:
 - 47: CRR -> cross region replication
 - 51: AWS migration hub, --> buat bantu migrasi
 - 59: AWS concierge ... ini billing and account expert. 
-- 64: flash RTMP 
+- 64: flash RTMP
+
+score: 78%
+
+## no 4, retake
+
 
 notes:
 - general purpose SSD 10K IOPS, optimze IOPS 30K IOPS
