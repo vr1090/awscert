@@ -7,6 +7,14 @@ wrong answer:
 - 16: AWS machine learning
 - 23: VPC consist of ..
 - 24: VPC wizrd
+- 29: route 53,
+- 30: dynamo DB : on demand and provisioned
+- 33: EBS provisioned, not by number snapshot
+- 40 : database charge: type, uptime, multi az, 
+- 43: access using federation IAM
+- 47: CRR -> cross region replication
+- 51: AWS migration hub, --> buat bantu migrasi
+- 59: AWS concierge ... ini billing and account expert.  
 
 notes:
 - general purpose SSD 10K IOPS, optimze IOPS 30K IOPS
@@ -33,3 +41,9 @@ notes:
     - vpc public-private subnet with VPN hardware
     - vpc private with VPN hardware
 - storage gateway: hybrid between on prem and cloud
+- route 53:
+    - DNS
+    - traffice flow
+    - domain registration
+    - health check and failover
+
