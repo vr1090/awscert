@@ -15,3 +15,4 @@ nodes:
     - failover: kalau yg asli engga bisa dikontak
     - geo : based on location user
     - latency: simpen database latency per ip
+- aws cognito: kasih akses buat mobile apps and web
