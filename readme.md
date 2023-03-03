@@ -24,9 +24,21 @@ score: 78%
 
 ## AWS cloud practioner: sample exam 5
 wrong answer:
-2: basic engga punya email support, minimal itu developers
-7: direct connect .. local region, other region.
+- 2: basic engga punya email support, minimal itu developers
+- 7: direct connect .. local region, other region.
+- 30: aurora multi master
+- 32: multi something, developer case
+- 33: store large in dynamo db: compress and put into s3
+- 37: EC2 placement group: cluster --> single AZ, 
+    - spread : ditaruh di beberapa hardware
+- 38 : IAM role in EC2, susah di configure, easier to manage. secure
+- 39 : elastic beanstalk dari git sampai deploy
+- 46: scale automatically -> s3, dynamoDB
+- 50: amazon lightsail : mysql, private server, HA, load balancing
+- 55: inter region vpc peering
+- 59: costum metric , memory utilization
 
+result: 81 %
 
 notes:
 - general purpose SSD 10K IOPS, optimze IOPS 30K IOPS
@@ -60,5 +72,7 @@ notes:
     - health check and failover
 - EBS encryption: non root at boot time sama root kalau dari AMI
 - NAT gateway scalable, sama ga perlu dimanage by you
+- RDS point in time, with granularity of 5 minutes
+
 
 
