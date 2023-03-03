@@ -40,6 +40,10 @@ wrong answer:
 
 result: 81 %
 
+## AWS cloud prac: sample exam 6
+- 2: scaling: simple, schedule, dynamic, step
+- 11: reosurce group, using tags
+
 notes:
 - general purpose SSD 10K IOPS, optimze IOPS 30K IOPS
 - alias record used for load balancer, s3, cloudfront, elastic beanstalk
