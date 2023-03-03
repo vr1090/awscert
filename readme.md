@@ -59,5 +59,6 @@ notes:
     - domain registration
     - health check and failover
 - EBS encryption: non root at boot time sama root kalau dari AMI
+- NAT gateway scalable, sama ga perlu dimanage by you
 
 
