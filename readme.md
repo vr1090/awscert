@@ -43,6 +43,8 @@ result: 81 %
 ## AWS cloud prac: sample exam 6
 - 2: scaling: simple, schedule, dynamic, step
 - 11: reosurce group, using tags
+- 16: inspector, installed di VM
+- 30: kinesis: store is S3 and dynamoDB
 
 notes:
 - general purpose SSD 10K IOPS, optimze IOPS 30K IOPS
@@ -77,6 +79,10 @@ notes:
 - EBS encryption: non root at boot time sama root kalau dari AMI
 - NAT gateway scalable, sama ga perlu dimanage by you
 - RDS point in time, with granularity of 5 minutes
+
+## notes on EC2
+- default security group, instance associated with default security group.
+
 
 
 
