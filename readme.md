@@ -79,9 +79,12 @@ notes:
 - EBS encryption: non root at boot time sama root kalau dari AMI
 - NAT gateway scalable, sama ga perlu dimanage by you
 - RDS point in time, with granularity of 5 minutes
+- Application load balancer, cuma bisa http sama https
 
 ## notes on EC2
 - default security group, instance associated with default security group.
+- EC2 Scaling group.
+
 
 
 
