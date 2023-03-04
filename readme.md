@@ -80,6 +80,8 @@ notes:
 - NAT gateway scalable, sama ga perlu dimanage by you
 - RDS point in time, with granularity of 5 minutes
 - Application load balancer, cuma bisa http sama https
+- expedited, AWS glacier
+
 
 ## notes on EC2
 - default security group, instance associated with default security group.
