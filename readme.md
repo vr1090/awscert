@@ -45,6 +45,11 @@ result: 81 %
 - 11: reosurce group, using tags
 - 16: inspector, installed di VM
 - 30: kinesis: store is S3 and dynamoDB
+- 53: visual workflow, aws step function
+- 54: workflow: using swf
+- 55: migration services: hper vm sama vm ware
+- 62: snapshot, cuma butuh yg recent
+- 65: galcier, minimum 90 days
 
 notes:
 - general purpose SSD 10K IOPS, optimze IOPS 30K IOPS
